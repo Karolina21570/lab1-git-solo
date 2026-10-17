@@ -7,3 +7,4 @@ kot skacze
 ##Autor
 Karolina
 stopka
+kotek biega
