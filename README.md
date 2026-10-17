@@ -4,3 +4,4 @@ kot skacze
 kot skacze  
 ##Autor
 Karolina
+stopka
