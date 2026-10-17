@@ -1,4 +1,6 @@
-# Projekt Beta
+<<<<<<< HEAD
+# Projekt Alfa-Beta
+>>>>>>> feature/tytul
 kot idzie  
 kot skacze
 kot skacze  
