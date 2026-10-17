@@ -1,4 +1,4 @@
-# Lab 1 - git
+# Lab 1 - git gałązka
 kot idzie  
 kot skacze
 kot skacze  
