@@ -1,4 +1,4 @@
-# Lab 1 - git gałązka
+# Projekt Beta
 kot idzie  
 kot skacze
 kot skacze  
