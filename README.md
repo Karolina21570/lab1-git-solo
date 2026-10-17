@@ -8,3 +8,4 @@ kot skacze
 Karolina
 stopka
 kotek biega
+kotek dobiegł
