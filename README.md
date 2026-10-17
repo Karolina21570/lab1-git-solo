@@ -2,4 +2,3 @@
 kot idzie  
 kot skacze
 kot skacze  
-TO JEST BŁĄD
